@@ -1,5 +1,5 @@
 [project]
-name = "fancy_print"
+name = "fancy_printer"
 version = "0.1.0"
 description = "A fancy print function for Python"
 authors = [
